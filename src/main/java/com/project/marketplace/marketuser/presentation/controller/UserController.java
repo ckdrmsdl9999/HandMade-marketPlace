@@ -1,0 +1,10 @@
+package com.project.marketplace.marketuser.presentation.controller;
+
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class UserController {
+
+
+}
